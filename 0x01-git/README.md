@@ -1,1 +1,2 @@
-This is a README.md file
+#0x01. Git
+The files and folders in the repository are the solutions to ALX tasks.
